@@ -34,7 +34,7 @@ mongoose
 app.use(
   session({
     name: "ecomv1_id",
-    secret: "thisistopsecretstuffdude",
+    secret: "thisisecretdude",
     resave: false,
     saveUninitialized: true,
   })
