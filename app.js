@@ -44,7 +44,7 @@ app.use(flash());
 app.use(passport.initialize());
 app.use(passport.session());
 //configure passport use local stratergy
-passport.use(new LocalStrategy(User.authenticate())); // for login logout session
+passport.use(new LocalStrategy(User.authenticate())); 
 
 //Configuring Google Strategy
 passport.use(
