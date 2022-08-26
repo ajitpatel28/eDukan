@@ -66,7 +66,7 @@ Navigate to localhost:3000 or the mentioned port .
 - username : ajitadmin
 - password : ajitadmin -->
 
-# Screenshots
+<!-- # Screenshots -->
 <!-- 
 ## Home page
 
