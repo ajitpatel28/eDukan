@@ -1,7 +1,7 @@
 eDukan
 An E-commerce application built with CRUD functionality, and REST architechture.
 
-> Deployed at  
+> Deployed at  https://edukan-e-commerce.herokuapp.com/
 
 ### Tech Stack :-
 - EJS
@@ -12,9 +12,6 @@ An E-commerce application built with CRUD functionality, and REST architechture.
 > ## Run Locally
 
 <br>
-
-
-After that:-
 
 - Open Terminal and write  >
 ``` bash
@@ -35,8 +32,6 @@ Navigate to localhost:3000 or the mentioned port .
 - Uploading of File type Image as jpeg/png format.
 <br>
 
-> ## **Functionalities :**
-<br>
 
 > ### **Products** :
 
@@ -60,17 +55,16 @@ Navigate to localhost:3000 or the mentioned port .
 
 
 
-**The Admin Dashboard can only be accessed as an Admin user**
+**The Admin Dashboard can only be accessed as an Admin user**:
 
-<!-- Default Admin Credentials : 
+<-- Default Admin Credentials : 
 - username : ajitadmin
 - password : ajitadmin -->
 
-<!-- # Screenshots -->
-<!-- 
+# Screenshots 
 ## Home page
 
-<!-- ![home-page](public/images/home.png) 
+<-- ![home-page](public/images/home.png) 
 
 ## Item page
 ![item-page](public/images/item.png)
